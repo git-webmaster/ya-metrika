@@ -1,9 +1,8 @@
 # Yandex Metrika API
 Библиотека для удобного взаимодействия с Yandex Metrika API
 
-[![Latest Stable Version](https://poser.pugx.org/axp-dev/ya-metrika/v/stable)](https://packagist.org/packages/axp-dev/ya-metrika)
-[![PHP Version Require](http://poser.pugx.org/axp-dev/ya-metrika/require/php)](https://packagist.org/packages/axp-dev/ya-metrika)
-[![License](https://poser.pugx.org/axp-dev/ya-metrika/license)](https://packagist.org/packages/axp-dev/ya-metrika)
+## Fork
+Изменил минимальную версию php с 8.0 на 7.4
 
 ## Оглавление
 1. [Старт](#Старт)
